@@ -10,7 +10,7 @@ pip install aliyundriveAutoCheckin==0.1.7
 
 2. ### release下载
 
-
+[**点击跳转**](https://github.com/zzh0107/aliyundriveAutoCheckin/releases/tag/%E9%98%BF%E9%87%8C%E4%BA%91%E7%9B%98)
 
 ## 使用方法
 
